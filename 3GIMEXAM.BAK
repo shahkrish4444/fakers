@@ -1,0 +1,18 @@
+#include<stdio.h>
+#include<conio.h>
+
+void main(){
+		int i=3;
+		int j=4;
+		sum=i+j;
+		clrscr();
+
+		printf("enter the number");
+		scanf("%d %d =%d",i,j,sum);
+
+	 getch();
+
+
+
+
+}
